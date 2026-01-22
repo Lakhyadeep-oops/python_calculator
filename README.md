@@ -20,3 +20,9 @@ The project performs basic arithmetic operations using **modular Python files**.
 ---
 
 ## 📂 Project Structure
+python_calculator/
+│
+├── main.py # Main program file
+├── sum.py # Module for addition
+├── diff.py # Module for subtraction
+├── README.md # Project documentation
